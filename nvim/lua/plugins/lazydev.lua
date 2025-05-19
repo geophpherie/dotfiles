@@ -9,5 +9,5 @@ return {
 			{ path = "${3rd}/luv/library", words = { "vim%.uv" } },
 		},
 	},
-	ui = {},
+	ui = { icons = {} },
 }
