@@ -11,7 +11,7 @@ return {             -- Useful plugin to show you pending keybinds.
 			mappings = vim.g.have_nerd_font,
 			-- If you are using a Nerd Font: set icons.keys to an empty table which will use the
 			-- default which-key.nvim defined Nerd Font icons, otherwise define a string table
-			keys = vim.g.have_nerd_font {},
+			keys = {},
 		},
 
 		-- Document existing key chains

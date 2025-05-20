@@ -12,5 +12,8 @@ return {
 	},
 	opts = {
 		-- your options here
+		window = {
+			position = 'float'
+		}
 	},
 }
