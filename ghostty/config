@@ -1,0 +1,31 @@
+font-family = "FiraCode Nerd Font Mono"
+font-size = 14
+
+theme = TokyoNight Night
+
+background-image = "/Users/jeff/Pictures/mt-hood-dark.jpeg"
+background-image-fit = stretch 
+
+keybind = ctrl+super+j=goto_split:down
+keybind = ctrl+super+k=goto_split:up
+keybind = ctrl+super+l=goto_split:right
+keybind = ctrl+super+h=goto_split:left
+
+keybind = ctrl+super+s=new_split:down
+keybind = ctrl+super+v=new_split:right
+
+keybind = ctrl+super+enter=toggle_split_zoom
+
+keybind = ctrl+super+p=toggle_command_palette
+
+# keybind = shift+super+s=new_split:up
+# keybind = shift+super+v=new_split:left
+
+
+
+# background-image-opacity = 1
+# background-opacity = 0.95
+# background-blur = true
+# cursor-style = block
+# cursor-style-blink = false
+# ""shell-integration-features = no-cursor
